@@ -1,0 +1,5 @@
+.keepLineBreak tbody tr {
+  white-space: pre-wrap;
+}
+ <div class="CFContainerPadding keepLineBreak">
+https://stackoverflow.com/questions/13910339/html-new-lines-in-kendo-grid/13954900#13954900
